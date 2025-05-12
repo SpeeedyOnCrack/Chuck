@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jakub\\source\\repos\\ChuckNorrisAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7409A840-7418-425B-A9CE-79AA43A4B92C}|ChuckNorrisAPI\\ChuckNorrisAPI.csproj|c:\\users\\jakub\\source\\repos\\chucknorrisapi\\chucknorrisapi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7409A840-7418-425B-A9CE-79AA43A4B92C}|ChuckNorrisAPI\\ChuckNorrisAPI.csproj|solutionrelative:chucknorrisapi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409A840-7418-425B-A9CE-79AA43A4B92C}|ChuckNorrisAPI\\ChuckNorrisAPI.csproj|c:\\users\\jakub\\source\\repos\\chucknorrisapi\\chucknorrisapi\\apihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409A840-7418-425B-A9CE-79AA43A4B92C}|ChuckNorrisAPI\\ChuckNorrisAPI.csproj|solutionrelative:chucknorrisapi\\apihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409A840-7418-425B-A9CE-79AA43A4B92C}|ChuckNorrisAPI\\ChuckNorrisAPI.csproj|c:\\users\\jakub\\source\\repos\\chucknorrisapi\\chucknorrisapi\\vtipy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409A840-7418-425B-A9CE-79AA43A4B92C}|ChuckNorrisAPI\\ChuckNorrisAPI.csproj|solutionrelative:chucknorrisapi\\vtipy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409A840-7418-425B-A9CE-79AA43A4B92C}|ChuckNorrisAPI\\ChuckNorrisAPI.csproj|c:\\users\\jakub\\source\\repos\\chucknorrisapi\\chucknorrisapi\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409A840-7418-425B-A9CE-79AA43A4B92C}|ChuckNorrisAPI\\ChuckNorrisAPI.csproj|solutionrelative:chucknorrisapi\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7409A840-7418-425B-A9CE-79AA43A4B92C}|ChuckNorrisAPI\\ChuckNorrisAPI.csproj|C:\\Users\\jakub\\source\\repos\\ChuckNorrisAPI\\chucknorrisapi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7409A840-7418-425B-A9CE-79AA43A4B92C}|ChuckNorrisAPI\\ChuckNorrisAPI.csproj|solutionrelative:chucknorrisapi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\ChuckNorrisAPI\\ChuckNorrisAPI\\Form1.cs",
+              "RelativeDocumentMoniker": "ChuckNorrisAPI\\Form1.cs",
+              "ToolTip": "C:\\Users\\jakub\\source\\repos\\ChuckNorrisAPI\\ChuckNorrisAPI\\Form1.cs",
+              "RelativeToolTip": "ChuckNorrisAPI\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:29:08.191Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaveData.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\ChuckNorrisAPI\\ChuckNorrisAPI\\SaveData.cs",
+              "RelativeDocumentMoniker": "ChuckNorrisAPI\\SaveData.cs",
+              "ToolTip": "C:\\Users\\jakub\\source\\repos\\ChuckNorrisAPI\\ChuckNorrisAPI\\SaveData.cs",
+              "RelativeToolTip": "ChuckNorrisAPI\\SaveData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:43:18.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vtipy.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\ChuckNorrisAPI\\ChuckNorrisAPI\\Vtipy.cs",
+              "RelativeDocumentMoniker": "ChuckNorrisAPI\\Vtipy.cs",
+              "ToolTip": "C:\\Users\\jakub\\source\\repos\\ChuckNorrisAPI\\ChuckNorrisAPI\\Vtipy.cs",
+              "RelativeToolTip": "ChuckNorrisAPI\\Vtipy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:37:43.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiHandler.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\ChuckNorrisAPI\\ChuckNorrisAPI\\ApiHandler.cs",
+              "RelativeDocumentMoniker": "ChuckNorrisAPI\\ApiHandler.cs",
+              "ToolTip": "C:\\Users\\jakub\\source\\repos\\ChuckNorrisAPI\\ChuckNorrisAPI\\ApiHandler.cs",
+              "RelativeToolTip": "ChuckNorrisAPI\\ApiHandler.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwBcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:37:12.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [N\u00E1vrh]",
+              "DocumentMoniker": "C:\\Users\\jakub\\source\\repos\\ChuckNorrisAPI\\ChuckNorrisAPI\\Form1.cs",
+              "RelativeDocumentMoniker": "ChuckNorrisAPI\\Form1.cs",
+              "ToolTip": "C:\\Users\\jakub\\source\\repos\\ChuckNorrisAPI\\ChuckNorrisAPI\\Form1.cs [N\u00E1vrh]",
+              "RelativeToolTip": "ChuckNorrisAPI\\Form1.cs [N\u00E1vrh]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:26:00.426Z",
+              "EditorCaption": " [N\u00E1vrh]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
