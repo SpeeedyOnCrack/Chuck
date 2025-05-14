@@ -33,16 +33,16 @@ namespace ChuckNorrisAPI
 
             if (fact != null)
             {
-                if (!string.IsNullOrEmpty(fact.icon))
+                if (!string.IsNullOrEmpty(fact.icon_url))
                 {
-                    pictureBox1.Load(fact.icon);
+                    pictureBox1.Load(fact.icon_url);
                 }
 
-                label2.Text = $"{fact.vtip}";
+                label2.Text = $"{fact.value}";
 
 
 
-                saveData.Save("ChuckNorissFacts.txt", fact.vtip, fact.icon);
+                saveData.Save("ChuckNorissFacts.txt", fact.value, fact.icon_url);
             }
             else
             {

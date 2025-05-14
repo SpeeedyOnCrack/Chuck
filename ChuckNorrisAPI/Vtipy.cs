@@ -6,7 +6,7 @@ namespace ChuckNorrisAPI
 {
     public class Vtipy
     {
-        public string vtip { get; set; }
-        public string icon { get; set; }
+        public string value { get; set; }
+        public string icon_url { get; set; }
     }
 }
