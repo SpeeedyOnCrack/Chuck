@@ -10,34 +10,34 @@ namespace ChuckNorrisAPI
 {
     public class ApiHandler
     {
-
-        public async Task<Vtipy?> GetCrypto(string name)
+        public async Task<Vtipy> GetFact()
         {
             try
             {
-                RestClient client = new RestClient($"https://api.chucknorris.io/jokes/random");
+                RestClient client = new RestClient("https://api.chucknorris.io/jokes/random");
                 RestRequest request = new RestRequest();
 
                 var response = await client.ExecuteAsync(request);
 
-                if (response.IsSuccessful)
+                if (response.IsSuccessful && !string.IsNullOrEmpty(response.Content))
                 {
                     Console.WriteLine(response.Content);
 
-                    Vtipy vtip = JsonConvert.DeserializeObject<Vtipy>(response.Content);
+                    Vtipy fact = JsonConvert.DeserializeObject<Vtipy>(response.Content);
 
-                    return vtip;
+                    return fact;
                 }
                 else
                 {
-                    Console.WriteLine($"Chyba: {response.StatusCode}");
+                    Console.WriteLine("Failed.");
+                    return null;
                 }
             }
-            catch (Exception e)
+            catch (Exception ex)
             {
-                Console.WriteLine(e.Message);
+                Console.WriteLine($"An error occurred: {ex.Message}");
+                return null;
             }
-            return null;
         }
     }
 }

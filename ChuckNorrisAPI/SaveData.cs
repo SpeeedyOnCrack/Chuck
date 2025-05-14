@@ -1,21 +1,19 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.IO;
 using System.Windows.Forms;
 
 namespace ChuckNorrisAPI
 {
     internal class SaveData
     {
-        public void Save(string logFilePath, TextBox )
+        public void Save(string logFilePath, string value, string icon_url)
         {
-            string searchQuery = textBox2.Text;
-            if (!string.IsNullOrEmpty(searchQuery))
+            string searchQuery = value;
+            string searchQuery1 = icon_url;
+            if (!string.IsNullOrEmpty(searchQuery) && !string.IsNullOrEmpty(searchQuery1))
             {
-                MessageBox.Show("Uloženo!");
                 File.AppendAllText(logFilePath, searchQuery + Environment.NewLine);
+                File.AppendAllText(logFilePath, searchQuery1 + Environment.NewLine);
             }
         }
     }
